@@ -39,37 +39,32 @@ I enjoy building intelligent systems, connected devices, and scalable software s
 
 ### Programming Languages
 
-<p>
-  <img src="https://img.shieldsPython-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-  https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-</p>
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Machine Learning & Data Science
 
-<p>
-  https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-  https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-  https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-  https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### IoT & Embedded Systems
 
-https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white
-https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ### Networking
 
-https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white
-https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Development Tools
 
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
 ## 📌 Featured Projects
@@ -90,16 +85,21 @@ Network design, simulation, security, and infrastructure projects.
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=nbil-s&show_icons=true&theme=tokyonight
-  https://github-readme-stats.vercel.app/api/top-langs/?username=nbil-s&layout=compact&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api?username=nbil-s&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbil-s&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 ## 🔥 GitHub Streak
 
 <p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=nbil-s&theme=tokyonight
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nbil-s&theme=tokyonight" />
 </p>
 
 ---
@@ -107,7 +107,7 @@ Network design, simulation, security, and infrastructure projects.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  https://github-profile-trophy.vercel.app/?username=nbil-s&theme=tokyonight&row=1&column=7
+  <img src="https://github-profile-trophy.vercel.app/?username=nbil-s&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
@@ -122,10 +122,7 @@ Network design, simulation, security, and infrastructure projects.
 
 ## 👀 Profile Views
 
-<p>
-  https://komarev.com/ghpvc/?username=nbil-s&label=Profile%20Views&color=0e75b6&style=for-the-badge
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=nbil-s&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ---
 
 ### ⭐ Motto
