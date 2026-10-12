@@ -1,49 +1,102 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
-</p>
+<h1 align="center">Hi 👋, I'm Bilgis Nzembi</h1>
 
-# Hi there, I'm Bilgis Nthoki 
-
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
-
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+<h3 align="center">
+Machine Learning • Internet of Things • Networking • Software Engineering
+</h3>
 
 ---
 
-## Technical Ecosystem
+## 🚀 About Me
 
-*Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
+🎓 Computer Science Student at Strathmore University
 
-### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/[Technology_1]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[Technology_2]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Technology_3]-20232A?style=for-the-badge" />
+I enjoy building intelligent systems, connected devices, and scalable software solutions. My interests span Machine Learning, Internet of Things (IoT), Computer Networking, and Software Engineering, where I focus on solving real-world problems through technology.
 
-### Tooling, Infrastructure & Ecosystem
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+### 🔭 Current Focus
+- Flood Anomaly Detection using Machine Learning
+- IoT-based monitoring systems
+- Network design and infrastructure concepts
+- Full-stack software development
+
+### 🌱 Currently Learning
+- Deep Learning
+- Computer Vision
+- Cloud Computing
+- Network Security
+- Embedded Systems
+
+### ⚡ Core Interests
+- Artificial Intelligence
+- Machine Learning
+- Internet of Things (IoT)
+- Computer Networks
+- Software Architecture
+- Cybersecurity
 
 ---
 
-## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
+## 🛠️ Technical Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbil-s&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbil-s&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+### Programming Languages
 
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nbil-s&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-</p>
+![Pythonimg.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+
+### Machine Learning & Data Science
+
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white
+
+### IoT & Embedded Systems
+
+https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white
+https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white
+
+### Networking
+
+https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white
+https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+
+### Development Tools
+
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
 ---
 
-## Connect With Me
+## 📌 Featured Projects
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+### 🌊 Flood Anomaly Detection
+Machine learning system for detecting flood anomalies from environmental data.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
-</p>
+### 🏥 Queue Management System
+Healthcare queue management solution for small GP clinics.
+
+### 📡 IoT Projects
+Smart sensor and monitoring systems using microcontrollers and connected devices.
+
+### 🌐 Networking Projects
+Network design, simulation, security, and infrastructure projects.
+
+---
+
+## 📊 GitHub Statistics
+
+https://github-readme-stats.vercel.app/api?username=nbil-s&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=nbil-s&layout=compact&theme=tokyonight
+
+---
+
+## 📫 Connect With Me
+
+📧 nzembibilgis@gmail.com
+
+💼 LinkedIn: Add Your LinkedIn Link
+
+---
+
+> "Building intelligent systems, connected solutions, and reliable software that solve real-world problems."
