@@ -13,10 +13,10 @@ Machine Learning • Internet of Things • Networking • Software Engineering
 I enjoy building intelligent systems, connected devices, and scalable software solutions. My interests span Machine Learning, Internet of Things (IoT), Computer Networking, and Software Engineering, where I focus on solving real-world problems through technology.
 
 ### 🔭 Current Focus
-- Flood Anomaly Detection using Machine Learning
-- IoT-based monitoring systems
-- Network design and infrastructure concepts
-- Full-stack software development
+- 🌊 Flood Anomaly Detection using Machine Learning
+- 📡 IoT-based Monitoring Systems
+- 🤖 Applied Artificial Intelligence
+- ☁️ Cloud Technologies and Data Engineering
 
 ### 🌱 Currently Learning
 - Deep Learning
@@ -39,15 +39,20 @@ I enjoy building intelligent systems, connected devices, and scalable software s
 
 ### Programming Languages
 
-![Pythonimg.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+<p>
+  <img src="https://img.shieldsPython-3776AB?style=for-the-badge&logo=python&logoColor=white
+  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+  https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+</p>
 
 ### Machine Learning & Data Science
 
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white
+<p>
+  https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+  https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+  https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+  https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
+</p>
 
 ### IoT & Embedded Systems
 
@@ -70,13 +75,13 @@ https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-stud
 ## 📌 Featured Projects
 
 ### 🌊 Flood Anomaly Detection
-Machine learning system for detecting flood anomalies from environmental data.
+Machine Learning-powered system for detecting flood anomalies and supporting disaster monitoring and response.
 
 ### 🏥 Queue Management System
-Healthcare queue management solution for small GP clinics.
+A healthcare solution designed to improve patient flow and appointment scheduling for small clinics.
 
-### 📡 IoT Projects
-Smart sensor and monitoring systems using microcontrollers and connected devices.
+### 📡 IoT Monitoring Projects
+Exploring connected devices, sensor networks, and real-time monitoring systems.
 
 ### 🌐 Networking Projects
 Network design, simulation, security, and infrastructure projects.
@@ -85,18 +90,44 @@ Network design, simulation, security, and infrastructure projects.
 
 ## 📊 GitHub Statistics
 
-https://github-readme-stats.vercel.app/api?username=nbil-s&show_icons=true&theme=tokyonight
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=nbil-s&show_icons=true&theme=tokyonight
+  https://github-readme-stats.vercel.app/api/top-langs/?username=nbil-s&layout=compact&theme=tokyonight
+</p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=nbil-s&layout=compact&theme=tokyonight
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=nbil-s&theme=tokyonight
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  https://github-profile-trophy.vercel.app/?username=nbil-s&theme=tokyonight&row=1&column=7
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 nzembibilgis@gmail.com
+📧 Email: bilgis.nzembi@strathmore.edu
 
-💼 LinkedIn: Add Your LinkedIn Link
+💼 LinkedIn: https://www.linkedin.com/in/bilgis-nzembi/
 
 ---
 
-> "Building intelligent systems, connected solutions, and reliable software that solve real-world problems."
+## 👀 Profile Views
+
+<p>
+  https://komarev.com/ghpvc/?username=nbil-s&label=Profile%20Views&color=0e75b6&style=for-the-badge
+</p>
+
+---
+
+### ⭐ Motto
+
+> "Building intelligent systems that solve real-world problems."
